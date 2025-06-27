@@ -1,0 +1,3 @@
+@echo off
+echo Opening About Me Portfolio...
+start "" index.html 
